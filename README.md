@@ -1,4 +1,4 @@
-<h3>Hi there 👋, I'm Peter Stadie!</h3>
+<h3>Hi there 👋, I'm Peter!</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n4n0b1t3/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://n4n0b1t3.medium.com/)
